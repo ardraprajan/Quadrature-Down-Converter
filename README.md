@@ -110,6 +110,3 @@ Hardware testing was carried out using a waveform generator and DSO. FFT analysi
 
 This project successfully demonstrates the working of a Quadrature Down Converter using analog circuit design. The quadrature oscillator generated two signals with an approximate 90° phase difference, while the mixer and low-pass filter stages performed frequency downconversion and IF extraction. Both simulation and hardware results validated the expected operation of the system.
 
-## License
-
-This project is intended for academic and educational purposes.
